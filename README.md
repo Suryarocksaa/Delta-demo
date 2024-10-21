@@ -1,3 +1,3 @@
 # demo-class
 This is the Demo for Git.
-git Practice by Surya Madhava.
+Git Practice by Surya Madhava. 
